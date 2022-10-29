@@ -2,7 +2,7 @@ clear all
 close all
 clc
 
-%% cosa fanno 8 cani in mare?Un canotto
+%% cosa fanno 8 cani in mare?Un canotto, e cosa fanno tani galli sottoterra?
 
 a = 15000;
 e = 0.1;
