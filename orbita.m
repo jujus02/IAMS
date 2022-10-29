@@ -2,7 +2,7 @@ clear all
 close all
 clc
 
-%% cosa fanno 8 cani in mare?
+%% cosa fanno 8 cani in mare?Un canotto
 
 a = 15000;
 e = 0.1;
